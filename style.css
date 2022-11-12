@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
+
+body {
+    font-family: 'Garuda';
+    background: #251D3A;
+    font-family: 'Inconsolata', monospace, Tahoma;
+    color: #EBF0F6;
+    letter-spacing: 0.15em;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+}
+
+.project-items {
+    text-decoration: none;
+    line-height: 0;
+    color: white;
+}
+.project-items:hover {
+    color: crimson;
+}
